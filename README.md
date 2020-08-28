@@ -2,8 +2,8 @@
 This is a community org for those who want to propose and develop some ideas on the top of the IOC blockchain. For the official code visit the [IOCoin repository](https://github.com/IOCoin/DIONS), or use the telegram groups [@iocoin_official](https://t.me/iocoin_official) or [@iodigitalsupport](https://te.me/iodigitalsupport).
 
 ## Projects
-- Docker iocoin full node
-- Telegram tip bot
+- [Docker iocoin full node](https://hub.docker.com/r/iocoin/iocoind)
+- [Telegram tip bot](https://github.com/iocCN/telegram_bot)
 - Test network
 - Cross-compiled daemon
 - Mobile wallet (Android, Chromebook)
