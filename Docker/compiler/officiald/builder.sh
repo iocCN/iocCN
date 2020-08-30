@@ -15,9 +15,6 @@ git clone --single-branch --branch $branch $repo ${reponame}
 cd ${reponame}
 git checkout $commit
 cd src
-make -f makefile.unix
-cp iocoind /repo/iocoind-$branch
-
-cd /repo/iocoin/src
 make -f makefile.unix clean
 make -f makefile.unix
+cp iocoind /repo/iocoind-$branch
