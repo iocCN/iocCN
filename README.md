@@ -8,7 +8,7 @@ This is a community org for those who want to propose and develop some ideas on 
 - Cross-compiled daemon
 - Mobile wallet (Android, Chromebook)
 
-For discussion about this projects or a new one talk on [@IOCoinNetwork](https://t.me/IOCoinNetwork) telegram group.
+For discussion about this projects go to the [Discussions](https://github.com/iocCN/iocCN/discussions) tab, or a new one talk on [@IOCoinNetwork](https://t.me/IOCoinNetwork) telegram group.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
